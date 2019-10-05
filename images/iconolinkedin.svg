@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Icono Copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icono-Copy-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" x="0" y="0" width="80" height="80"></rect>
+        <g id="linkedin-copy" transform="translate(16.000000, 16.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M47.9880085,48 L47.9880085,47.997991 L48,47.997991 L48,30.314684 C48,21.6638865 46.1473148,15 36.0864548,15 C31.2498872,15 28.0041906,17.6679654 26.6791309,20.1973091 L26.5392302,20.1973091 L26.5392302,15.8076221 L17,15.8076221 L17,47.997991 L26.9329508,47.997991 L26.9329508,32.0585048 C26.9329508,27.8616827 27.7243891,23.8034823 32.8947199,23.8034823 C37.9891045,23.8034823 38.0650506,28.5929624 38.0650506,32.3277122 L38.0650506,48 L47.9880085,48 Z" id="Path"></path>
+            <polygon id="Path" points="1 16 11 16 11 48 1 48"></polygon>
+            <path d="M6,0 C2.68771686,0 0,2.67518563 0,5.97202556 C0,9.26886548 2.68771686,12 6,12 C9.31228314,12 12,9.26886548 12,5.97202556 C11.9979181,2.67518563 9.31020125,0 6,0 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

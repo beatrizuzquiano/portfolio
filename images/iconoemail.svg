@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Icono Copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icono-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" x="0" y="0" width="80" height="80"></rect>
+        <path d="M66.375,16 L13.625,16 C10.52725,16 8,18.4856615 8,21.5384615 L8,58.4615385 C8,61.504 10.516,64 13.625,64 L66.375,64 C69.465,64 72,61.5227077 72,58.4615385 L72,21.5384615 C72,18.496 69.484,16 66.375,16 Z M66,20 L40.6098035,45 L15,20 L66,20 Z M12,57 L12,22 L30,39.42464 L12,57 Z M15,60 L33.0018019,42 L39.3095924,48.2529985 C40.0397755,48.9768832 41.2181047,48.9745175 41.9452993,48.2472712 L48.095697,42.0974891 L66,60 L15,60 Z M69,57 L51,39.5000609 L69,22 L69,57 Z" id="Email-Copy" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>
