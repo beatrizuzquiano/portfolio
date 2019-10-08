@@ -38,11 +38,13 @@ a {
   -webkit-transition: .3s all;
   -o-transition: .3s all;
   transition: .3s all;
-  color: #C275F6; }
+  color: black; }
   a:hover, a:focus, a:active {
     color: #D197F7;
     text-decoration: none; }
-
+ a:visited{
+   color:black;
+ }
 .parent-nav-link-padding, .site-navbar .navbar-nav > li > a {
   padding: 15px 20px !important; }
 
@@ -647,6 +649,8 @@ a {
     .curri {
       color: #b275F6;
     }
+
+  
 
     .herramientas-iconos {
       width: 100%;
