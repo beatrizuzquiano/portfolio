@@ -697,3 +697,14 @@ a {
     .information {
     padding: 0 80px;
     }
+
+
+    @media only screen and (min-width: 320px) and (max-width: 768px){
+
+      .software-module img{
+        width:40px;
+      }
+      .software-module{
+        flex-direction: column;
+      }
+    }
